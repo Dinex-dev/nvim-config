@@ -1,4 +1,3 @@
-vim.cmd.colorscheme "catppuccin"
 vim.opt.relativenumber = true
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
@@ -16,7 +15,6 @@ vim.opt.undofile = true
 
 -- vim.opt.hlsearch = falseset
 vim.opt.incsearch = true
-
 vim.opt.termguicolors = true
 
 vim.opt.scrolloff = 15
