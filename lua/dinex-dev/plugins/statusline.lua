@@ -30,7 +30,6 @@ return
                 "%=",
                 "diagnostics",
                 "lsps-formatters",
-                "copilot",
                 "indent",
                 "encoding",
                 "pos-cursor",
